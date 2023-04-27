@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - just this desc
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
