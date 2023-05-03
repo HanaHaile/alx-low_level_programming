@@ -1,7 +1,4 @@
-/*
- * File: 103-find_loop.c
- * Auth: Brennan D Baraban
- */
+
 
 #include "lists.h"
 
